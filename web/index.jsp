@@ -11,7 +11,7 @@
             <br>
         </div>
         <div>
-            <a href="Controlador?accion=listarPos">Listar Posiciones</a>
+            <a href="Controlador_Pos?accion=listarPos">Administrar Posiciones</a>
         </div>
     </body>
 </html>

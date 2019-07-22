@@ -17,7 +17,7 @@
     </head>
     
     
-    <tbody>
+    <body>
                 <table border="1">
                 <%
                 ArticuloDAO daos = new ArticuloDAO();

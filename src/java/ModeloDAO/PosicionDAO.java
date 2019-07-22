@@ -40,7 +40,7 @@ public class PosicionDAO implements CRUDPos{
                 pos.setPos_a(rs.getInt("Pos_a"));
                 pos.setPos_b(rs.getInt("Pos_b"));
                 pos.setLink(rs.getString("Link"));
-                pos.setProducto(rs.getInt("Producto"));
+                pos.setProducto(rs.getInt("ID_Producto"));
                 list.add(pos);
             }
         } catch (Exception e) {
